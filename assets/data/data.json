@@ -65,32 +65,72 @@
       "date": "8 Años"
     },
     {
-      "icon": "list",
+      "icon": "info",
       "title": "Desarrollador de software Sr",
       "subtitle": "Profesional independiente",
       "description": "Creacion de software para diferentes empresas, desarrollo de aplicaciones web(Flask), moviles(React Native) y de escritorio(Java, Python).",
       "date": "3 Años"
+    },
+    {
+      "icon": "info",
+      "title": "Desarrollo independiente",
+      "subtitle": "React Native App",
+      "description": "Aplicacion de consulta y busqueda de base de datos para empresa financiera.",
+      "date": "1 Año"
+    },
+    {
+      "icon": "info",
+      "title": "Desarrollo independiente",
+      "subtitle": "Aplicación web react",
+      "description": "Web Crud, para empresa de manejo de datos de personal propio.",
+      "date": "1 Año"
+    },
+    {
+      "icon": "info",
+      "title": "Desarrollo independiente",
+      "subtitle": "Aplicación web React Native",
+      "description": "Actualmente creando aplicacion para consulta y reportes de personal inscrito en una base de datos.",
+      "date": "1 Año"
     }
   ],
   "projects": [
     {
       "icon": "folder-git-2",
-      "title": "Título",
-      "subtitle": "Subtítulo",
-      "description": "Descripción",
+      "title": "Portafolio",
+      "subtitle": "Hoja de vida",
+      "description": "Portafolio profesional realizado en reflex python",
       "technologies": [
         {
-          "icon": "devicon-devicon-plain",
-          "name": "Tecnología"
+          "icon": "evicon-python-plain",
+          "name": "Python"
         },
         {
-          "icon": "devicon-devicon-plain",
-          "name": "Tecnología"
+          "icon": "devicon-bash-plain",
+          "name": "Reflex"
         }
       ],
-      "image": "/Hack.png",
-      "url": "https://google.com",
-      "github": "https://github.com"
+      "image": "/porta.png",
+      "url": "#",
+      "github": "https://github.com/jmono280/cv.git"
+    },
+    {
+      "icon": "folder-git-2",
+      "title": "Back Node",
+      "subtitle": "Back para manejo de datos",
+      "description": "API para Manejo de datos de usuario con inicio de sesión y registro de datos usando jwt para la autenticacion de usuario, cuanta tambien con un CRUD(Create, Read, Update, Delete.)",
+      "technologies": [
+        {
+          "icon": "evicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "icon": "devicon-bash-plain",
+          "name": "Reflex"
+        }
+      ],
+      "image": "/api.png",
+      "url": "#",
+      "github": "https://github.com/jmono280/back-node.git"
     }
   ],
   "training": [
@@ -100,15 +140,15 @@
       "subtitle": "No titulado",
       "description": "Me retire de la universidad en el ultimo sementre por motivos de trabajo.",
       "date": "3 Años",
-      "certificate": "https://google.com"
+      "certificate": "/data/Titulos.pdf"
     },
     {
       "icon": "box-select",
       "title": "Tecnologo de sistemas",
-      "subtitle": "Subtítulo",
-      "description": "Descripción",
+      "subtitle": "Certificado Profesional",
+      "description": "Obtenido certificado profesional como tecnologo de sistemas.",
       "date": "3 Años",
-      "certificate": "https://google.com"
+      "certificate": "/data/Titulos.pdf"
     }
   ],
   "extras": [
@@ -116,31 +156,31 @@
       "image": "/Zener.png",
       "title": "REPARACIÓN YMANTENIMIENTO ED ORDENADORES",
       "description": "Academia ZENER Madrid-España Octubre / Octubre 2002 - Julio 2003",
-      "url": ""
+      "url": "https://www.linkedin.com/in/juan-pablo-gutierrez-872345272/"
     },
     {
       "image": "/Madrid.png",
       "title": "ANIMACIÓN ORDENADOR YMULTIMEDIA",
       "description": "Institución Nuevas tencologías Madrid-España / Enero 2003 - Julio 2003",
-      "url": ""
+      "url": "https://www.linkedin.com/in/juan-pablo-gutierrez-872345272/"
     },
     {
       "image": "/NodeJs.png",
       "title": "NodeJSPro",
       "description": "CURSOS DEV TECHNOLOGY / Octubre 2021 - Diciembre 2021",
-      "url": ""
+      "url": "https://www.linkedin.com/in/juan-pablo-gutierrez-872345272/"
     },
     {
       "image": "/Hack.png",
       "title": "HACKING ÉTICO",
       "description": "Universidad de Catalun / Mayo 2023 - Agosto 2023",
-      "url": ""
+      "url": "https://www.linkedin.com/in/juan-pablo-gutierrez-872345272/"
     },
     {
       "image": "/SCRUM.png",
       "title": "SCRUM",
       "description": "Universidad de Cataluña / Mayo 2023 - Agosto 2023",
-      "url": ""
+      "url": "https://www.linkedin.com/in/juan-pablo-gutierrez-872345272/"
     }
   ],
   "skills": [
