@@ -1,0 +1,254 @@
+{
+  "avatar": "/juanp.JPG",
+  "name": "Juan Pablo",
+  "title": "Full-Stack Developer",
+  "location": "Remoto",
+  "media": {
+    "email": "jmono280@gmail.com",
+    "cv": "/data/cvJUAN2023.pdf",
+    "github": "https://github.com/jmono280",
+    "likedin": "https://www.linkedin.com/in/juan-pablo-gutierrez-872345272/"
+  },
+  "about": "Soy un desarrollador Full Stack apasionado, con 10 años de experiencia en el diseño, desarrollo e implementación de soluciones de software. Poseo una sólida comprensión de tecnologías tanto en el front-end como en el back-end, y me especializo en crear aplicaciones unicas.",
+  "technologies": [
+    {
+      "icon": "devicon-php-plain",
+      "name": "PHP"
+    },
+    {
+      "icon": "devicon-javascript-plain colored",
+      "name": "JavaScript"
+    },
+    {
+      "icon": "devicon-json-plain",
+      "name": "Json"
+    },
+    {
+      "icon": "devicon-python-plain colored",
+      "name": "Python"
+    },
+    {
+      "icon": "devicon-mysql-plain-wordmark colored",
+      "name": "Mysql"
+    },
+    {
+      "icon": "devicon-java-plain",
+      "name": "Java"
+    },
+    {
+      "icon": "devicon-nodejs-plain-wordmark colored",
+      "name": "NodeJs"
+    },
+    {
+      "icon": "devicon-flask-original-wordmark",
+      "name": "Flask"
+    },
+    {
+      "icon": "devicon-docker-plain-wordmark",
+      "name": "Docker"
+    },
+    {
+      "icon": "devicon-git-plain",
+      "name": "Git"
+    },
+    {
+      "icon": "devicon-html5-plain",
+      "name": "Git"
+    }
+  ],
+  "experience": [
+    {
+      "icon": "info",
+      "title": "Desarrollador de software",
+      "subtitle": "Software Java para la creación de transformadores electricos",
+      "description": "Desarrollador de software Java, base de datos Oracle",
+      "date": "8 Años"
+    },
+    {
+      "icon": "list",
+      "title": "Desarrollador de software Sr",
+      "subtitle": "Profesional independiente",
+      "description": "Creacion de software para diferentes empresas, desarrollo de aplicaciones web(Flask), moviles(React Native) y de escritorio(Java, Python).",
+      "date": "3 Años"
+    }
+  ],
+  "projects": [
+    {
+      "icon": "folder-git-2",
+      "title": "Título",
+      "subtitle": "Subtítulo",
+      "description": "Descripción",
+      "technologies": [
+        {
+          "icon": "devicon-devicon-plain",
+          "name": "Tecnología"
+        },
+        {
+          "icon": "devicon-devicon-plain",
+          "name": "Tecnología"
+        }
+      ],
+      "image": "/Hack.png",
+      "url": "https://google.com",
+      "github": "https://github.com"
+    }
+  ],
+  "training": [
+    {
+      "icon": "box-select",
+      "title": "Ingeniero de Sistemas",
+      "subtitle": "No titulado",
+      "description": "Me retire de la universidad en el ultimo sementre por motivos de trabajo.",
+      "date": "3 Años",
+      "certificate": "https://google.com"
+    },
+    {
+      "icon": "box-select",
+      "title": "Tecnologo de sistemas",
+      "subtitle": "Subtítulo",
+      "description": "Descripción",
+      "date": "3 Años",
+      "certificate": "https://google.com"
+    }
+  ],
+  "extras": [
+    {
+      "image": "/Zener.png",
+      "title": "REPARACIÓN YMANTENIMIENTO ED ORDENADORES",
+      "description": "Academia ZENER Madrid-España Octubre / Octubre 2002 - Julio 2003",
+      "url": ""
+    },
+    {
+      "image": "/Madrid.png",
+      "title": "ANIMACIÓN ORDENADOR YMULTIMEDIA",
+      "description": "Institución Nuevas tencologías Madrid-España / Enero 2003 - Julio 2003",
+      "url": ""
+    },
+    {
+      "image": "/NodeJs.png",
+      "title": "NodeJSPro",
+      "description": "CURSOS DEV TECHNOLOGY / Octubre 2021 - Diciembre 2021",
+      "url": ""
+    },
+    {
+      "image": "/Hack.png",
+      "title": "HACKING ÉTICO",
+      "description": "Universidad de Catalun / Mayo 2023 - Agosto 2023",
+      "url": ""
+    },
+    {
+      "image": "/SCRUM.png",
+      "title": "SCRUM",
+      "description": "Universidad de Cataluña / Mayo 2023 - Agosto 2023",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "icon": "devicon-php-plain",
+      "name": "PHP",
+      "percentage": "90%",
+      "subject": "PHP",
+      "A": 90,
+      "fullMark": 100
+    },
+    {
+      "icon": "devicon-javascript-plain colored",
+      "name": "JavaScript",
+      "percentage": "80%",
+      "subject": "JavaScript",
+      "A": 80,
+      "fullMark": 100
+    },
+    {
+      "icon": "devicon-json-plain",
+      "name": "Json",
+      "percentage": "90%",
+      "subject": "Json",
+      "A": 90,
+      "fullMark": 100
+    },
+    {
+      "icon": "devicon-python-plain colored",
+      "name": "Python",
+      "percentage": "85%",
+      "subject": "Python",
+      "A": 85,
+      "fullMark": 100
+    },
+    {
+      "icon": "devicon-mysql-plain-wordmark colored",
+      "name": "Mysql",
+      "percentage": "95%",
+      "subject": "Mysql",
+      "A": 95,
+      "fullMark": 100
+    },
+    {
+      "icon": "devicon-java-plain",
+      "name": "Java",
+      "percentage": "80%",
+      "subject": "Java",
+      "A": 80,
+      "fullMark": 100
+    },
+    {
+      "icon": "devicon-nodejs-plain-wordmark colored",
+      "name": "NodeJs",
+      "percentage": "90%",
+      "subject": "NodeJs",
+      "A": 90,
+      "fullMark": 100
+    },
+    {
+      "icon": "devicon-flask-original-wordmark",
+      "name": "Flask",
+      "percentage": "90%",
+      "subject": "Flask",
+      "A": 90,
+      "fullMark": 100
+    },
+    {
+      "icon": "devicon-docker-plain-wordmark",
+      "name": "Docker",
+      "percentage": "85%",
+      "subject": "Docker",
+      "A": 85,
+      "fullMark": 100
+    },
+    {
+      "icon": "devicon-git-plain",
+      "name": "Git",
+      "percentage": "80%",
+      "subject": "Git",
+      "A": 80,
+      "fullMark": 100
+    },
+    {
+      "icon": "devicon-html5-plain",
+      "name": "Html",
+      "percentage": "95%",
+      "subject": "Html",
+      "A": 95,
+      "fullMark": 100
+    },
+    {
+      "icon": "devicon-html5-plain",
+      "name": "Css",
+      "percentage": "75%",
+      "subject": "Css",
+      "A": 75,
+      "fullMark": 100
+    }
+  ],
+  "langs": [
+    {
+      "name": "Español",
+      "percentage": "100%"
+    },
+    {
+      "name": "Ingles",
+      "percentage": "50%"
+    }
+  ]
+}
