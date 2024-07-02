@@ -9,7 +9,6 @@ from portafolio.views.info import info
 from portafolio.views.skills import skills
 from portafolio.views.lang import lang
 from portafolio.views.tech_stack import tech_stack
-from portafolio.views.chart import radar_start_end
 
 DATA = data.data
 
