@@ -2,14 +2,14 @@
   "avatar": "/juanp.JPG",
   "name": "Juan Pablo",
   "title": "Full-Stack Developer",
-  "location": "Remoto",
+  "location": "Remote",
   "media": {
     "email": "jmono280@gmail.com",
     "cv": "/data/cvJUAN2023.pdf",
     "github": "https://github.com/jmono280",
     "likedin": "https://www.linkedin.com/in/juan-pablo-gutierrez-872345272/"
   },
-  "about": "Soy un desarrollador Full Stack apasionado, con 10 años de experiencia en el diseño, desarrollo e implementación de soluciones de software. Poseo una sólida comprensión de tecnologías tanto en el front-end como en el back-end, y me especializo en crear aplicaciones unicas.",
+  "about": "I am a passionate Full Stack Developer with 10 years of experience designing, developing and implementing software solutions. I have a solid understanding of both front-end and back-end technologies and specialize in building unique applications.",
   "technologies": [
     {
       "icon": "devicon-php-plain",
@@ -59,37 +59,37 @@
   "experience": [
     {
       "icon": "info",
-      "title": "Desarrollador de software",
-      "subtitle": "Software Java para la creación de transformadores electricos",
-      "description": "Desarrollador de software Java, base de datos Oracle",
+      "title": "Software developer",
+      "subtitle": "Java software connected to Oracle database for the creation of electrical transformers",
+      "description": "Java software developer, Oracle database",
       "date": "8 Años"
     },
     {
       "icon": "info",
-      "title": "Desarrollador de software Sr",
-      "subtitle": "Profesional independiente",
-      "description": "Creacion de software para diferentes empresas, desarrollo de aplicaciones web(Flask), moviles(React Native) y de escritorio(Java, Python).",
+      "title": "Software developer Sr",
+      "subtitle": "Independent professional",
+      "description": "Creation of software for different companies, development of web applications (Flask), mobile (React Native) and desktop (Java, Python).",
       "date": "3 Años"
     },
     {
       "icon": "info",
-      "title": "Desarrollo independiente",
+      "title": "Independent software development",
       "subtitle": "React Native App",
-      "description": "Aplicacion de consulta y busqueda de base de datos para empresa financiera.",
+      "description": "Database query and search application for financial company.",
       "date": "1 Año"
     },
     {
       "icon": "info",
-      "title": "Desarrollo independiente",
+      "title": "Independent software development",
       "subtitle": "Aplicación web react",
-      "description": "Web Crud, para empresa de manejo de datos de personal propio.",
+      "description": "Web Crud, for a company that manages its own staff data.",
       "date": "1 Año"
     },
     {
       "icon": "info",
-      "title": "Desarrollo independiente",
-      "subtitle": "Aplicación web React Native",
-      "description": "Actualmente creando aplicacion para consulta y reportes de personal inscrito en una base de datos.",
+      "title": "Independent software development",
+      "subtitle": "App Web React Native",
+      "description": "Currently creating an application for consulting and reporting personnel registered in a database.",
       "date": "1 Año"
     }
   ],
@@ -97,8 +97,8 @@
     {
       "icon": "folder-git-2",
       "title": "Portafolio",
-      "subtitle": "Hoja de vida",
-      "description": "Portafolio profesional realizado en reflex python",
+      "subtitle": "HV",
+      "description": "Professional portfolio made in reflex python",
       "technologies": [
         {
           "icon": "evicon-python-plain",
@@ -116,8 +116,8 @@
     {
       "icon": "folder-git-2",
       "title": "Back Node",
-      "subtitle": "Back para manejo de datos",
-      "description": "API para Manejo de datos de usuario con inicio de sesión y registro de datos usando jwt para la autenticacion de usuario, cuanta tambien con un CRUD(Create, Read, Update, Delete.)",
+      "subtitle": "Back to data management",
+      "description": "API for managing user data with login and data registration using jwt for user authentication, it also has a CRUD (Create, Read, Update, Delete.)",
       "technologies": [
         {
           "icon": "evicon-python-plain",
@@ -136,31 +136,31 @@
   "training": [
     {
       "icon": "box-select",
-      "title": "Ingeniero de Sistemas",
-      "subtitle": "No titulado",
-      "description": "Me retire de la universidad en el ultimo sementre por motivos de trabajo.",
-      "date": "3 Años",
+      "title": "Systems Engineer",
+      "subtitle": "Not titled",
+      "description": "I dropped out of college in the last semester for work reasons.",
+      "date": "3 Years",
       "certificate": "/data/Titulos.pdf"
     },
     {
       "icon": "box-select",
-      "title": "Tecnologo de sistemas",
-      "subtitle": "Certificado Profesional",
-      "description": "Obtenido certificado profesional como tecnologo de sistemas.",
-      "date": "3 Años",
+      "title": "Systems Technologist",
+      "subtitle": "Professional Certificate",
+      "description": "Obtained professional certification as a systems technologist.",
+      "date": "3 Years",
       "certificate": "/data/Titulos.pdf"
     }
   ],
   "extras": [
     {
       "image": "/Zener.png",
-      "title": "REPARACIÓN YMANTENIMIENTO ED ORDENADORES",
+      "title": "REPAIR AND MAINTENANCE OF COMPUTERS",
       "description": "Academia ZENER Madrid-España Octubre / Octubre 2002 - Julio 2003",
       "url": "https://www.linkedin.com/in/juan-pablo-gutierrez-872345272/"
     },
     {
       "image": "/Madrid.png",
-      "title": "ANIMACIÓN ORDENADOR YMULTIMEDIA",
+      "title": "COMPUTER ANIMATION AND MULTIMEDIA (3D Max)",
       "description": "Institución Nuevas tencologías Madrid-España / Enero 2003 - Julio 2003",
       "url": "https://www.linkedin.com/in/juan-pablo-gutierrez-872345272/"
     },
@@ -172,7 +172,7 @@
     },
     {
       "image": "/Hack.png",
-      "title": "HACKING ÉTICO",
+      "title": "ETHICAL HACKING",
       "description": "Universidad de Catalun / Mayo 2023 - Agosto 2023",
       "url": "https://www.linkedin.com/in/juan-pablo-gutierrez-872345272/"
     },

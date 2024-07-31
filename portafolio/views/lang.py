@@ -8,7 +8,7 @@ def lang(lang: list[Language]) -> rx.Component:
     return rx.vstack(
         rx.mobile_only(),
         rx.tablet_and_desktop(
-            heading("Idiomas"),
+            heading("Languajes"),
             rx.flex(
                 *[
                     rx.badge(

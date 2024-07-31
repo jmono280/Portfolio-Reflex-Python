@@ -5,6 +5,11 @@ Pagina estatica creada en reflex para mostrar experiencias y habilidades en un C
 
 ## Proyecto
 
+--> refelx run
+## Production 
+--> reflex run --env prod
+--> reflex export
+
 # Basado en 
 ### MoureDev
 
